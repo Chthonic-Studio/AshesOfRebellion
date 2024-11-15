@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1171.7142857142856,"scrollY":689.1428571428571},
-{"id":2,"expanded":false,"name":"Prologue1_Mines","order":2,"parentId":1,"scrollX":1013.25,"scrollY":645},
-{"id":3,"expanded":false,"name":"Prologue2_Hospital","order":3,"parentId":1,"scrollX":683.5,"scrollY":402}
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":911.3333333333334,"scrollY":566},
+{"id":2,"expanded":true,"name":"Prologue_01_Village","order":2,"parentId":1,"scrollX":896,"scrollY":624},
+{"id":3,"expanded":false,"name":"Intro_Colliseum","order":3,"parentId":0,"scrollX":900.6666666666666,"scrollY":699.3333333333334}
 ]
