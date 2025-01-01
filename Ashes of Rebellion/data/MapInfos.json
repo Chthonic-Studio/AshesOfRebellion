@@ -4,5 +4,5 @@ null,
 {"id":2,"expanded":true,"name":"Prologue_01_Village","order":2,"parentId":1,"scrollX":900.6666666666666,"scrollY":586},
 {"id":3,"expanded":true,"name":"Intro_Colliseum","order":3,"parentId":0,"scrollX":900.5999999999999,"scrollY":912.5999999999999},
 {"id":4,"expanded":false,"name":"Intro_Narration","order":4,"parentId":3,"scrollX":911.3333333333334,"scrollY":566},
-{"id":5,"expanded":true,"name":"Intro_Colliseum_AfterFight","order":5,"parentId":3,"scrollX":823.8,"scrollY":874.1999999999999}
+{"id":5,"expanded":true,"name":"Intro_Colliseum_AfterFight","order":5,"parentId":3,"scrollX":810.5999999999999,"scrollY":816.5999999999999}
 ]
